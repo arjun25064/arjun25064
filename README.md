@@ -4,14 +4,13 @@ MTech CSE · IIIT Delhi · 2026
 
 Building at the intersection of machine learning, systems, and real-world applications.
 
-## What I'm Working On
-- Fraud Detection Pipeline — end-to-end ML with MLflow, SMOTE, and FastAPI serving
-- Smart Research Assistant — RAG-based document QA using FAISS + LLMs
-- [Your other projects as you build them]
+## Working On
+- Continual Learning - continous object detection model retraining in real-time 
+
 
 ## Technical Stack
-**Languages:** Python · C++ · Java · SQL  
-**ML/DL:** PyTorch · scikit-learn · HuggingFace · LangChain  
+**Languages:** Python · C · C++ · Java · SQL  
+**ML/DL:** PyTorch · scikit-learn · HuggingFace · LangChain · OpenCV   
 **Tools:** FastAPI · Docker · MLflow · PostgreSQL · Git
 
 ## Currently Learning
