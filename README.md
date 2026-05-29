@@ -1,16 +1,23 @@
-## Hi there 👋
+# Arjun Prasad
 
-<!--
-**arjun25064/arjun25064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MTech CSE · IIIT Delhi · 2026
 
-Here are some ideas to get you started:
+Building at the intersection of machine learning, systems, and real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+- Fraud Detection Pipeline — end-to-end ML with MLflow, SMOTE, and FastAPI serving
+- Smart Research Assistant — RAG-based document QA using FAISS + LLMs
+- [Your other projects as you build them]
+
+## Technical Stack
+**Languages:** Python · C++ · Java · SQL  
+**ML/DL:** PyTorch · scikit-learn · HuggingFace · LangChain  
+**Tools:** FastAPI · Docker · MLflow · PostgreSQL · Git
+
+## Currently Learning
+- Advanced Dynamic Programming and Graph Algorithms
+- MLOps and model deployment patterns
+- Transformer architectures from first principles
+
+## Connect
+[LinkedIn](https://linkedin.com/in/arjunprasad25) · arjun25064@iiitd.ac.in
